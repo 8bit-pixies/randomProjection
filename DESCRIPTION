@@ -1,0 +1,12 @@
+Package: randomProjection
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-08-15
+Author: Chapman Siu
+Maintainer: Chapman Siu <chapm0n.siu@gmail.com>
+Description: randomProjection is a simple implementation of the dimension
+  reduction technique called random projections which is based on the Johnson-Lindenstrauss Lemma.
+License: MIT
+LazyData: TRUE
+Suggests: testthat
