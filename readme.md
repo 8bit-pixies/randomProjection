@@ -6,7 +6,7 @@ A naive implementation of Python sklearn's random projections in R. The package 
 
 ```
 library(devtools)
-install_github("chappers/randomProjections")
+install_github("chappers/randomProjection")
 ```
 
 # Example Usage
